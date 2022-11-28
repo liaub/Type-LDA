@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e39c73d2-5363-40a2-a1f1-d43424e42587" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zjI5UOXzu6y3eP3SQ1jDeVKmtN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\文档\代码\deeplearning\Meta-ADD\JPN_Training_phase - 副本\image\ADD" />
+      <recent name="D:\文档\代码\deeplearning\Meta-ADD\JPN_Training_phase - 副本" />
+      <recent name="D:\文档\代码\deeplearning\Meta-ADD\JPN_Training_phase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文档\代码\deeplearning\Meta-ADD\Type-LDA\image" />
+      <recent name="D:\文档\代码\deeplearning\Meta-ADD\JPN_Training_phase - 副本\image\LDD" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="datageneration_50_15_4800" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Type-LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datageneration_50_15_4800.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_add" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Type-LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_ldd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Type-LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_ldd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Type-LDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.draw_add" />
+      <item itemvalue="Python.draw_ldd" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.datageneration_50_15_4800" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.datageneration_50_15_4800" />
+        <item itemvalue="Python.draw_ldd" />
+        <item itemvalue="Python.draw_add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e39c73d2-5363-40a2-a1f1-d43424e42587" name="Default Changelist" comment="" />
+      <created>1634654886534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634654886534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668955642260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1668955642260" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1669648978938">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1669648978938" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1669623018179">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1669623018179" />
+    <state width="1259" height="112" key="GridCell.Tab.0.bottom" timestamp="1669649001008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="112" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1669649001008" />
+    <state width="1259" height="112" key="GridCell.Tab.0.center" timestamp="1669649001008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="112" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1669649001008" />
+    <state width="1259" height="112" key="GridCell.Tab.0.left" timestamp="1669649001008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="112" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1669649001008" />
+    <state width="1259" height="112" key="GridCell.Tab.0.right" timestamp="1669649001008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="112" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1669649001008" />
+    <state width="1259" height="185" key="GridCell.Tab.1.bottom" timestamp="1668955808292">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1668955808292" />
+    <state width="1259" height="185" key="GridCell.Tab.1.center" timestamp="1668955808292">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1668955808292" />
+    <state width="1259" height="185" key="GridCell.Tab.1.left" timestamp="1668955808292">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1668955808292" />
+    <state width="1259" height="185" key="GridCell.Tab.1.right" timestamp="1668955808292">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1668955808292" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1668955757779">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1668955757779" />
+  </component>
+</project>
